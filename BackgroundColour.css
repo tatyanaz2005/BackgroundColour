@@ -1,0 +1,15 @@
+body {
+  font-size: 14 px; 
+  text-align: center;
+}
+.change {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    }
